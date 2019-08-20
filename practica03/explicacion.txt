@@ -1,0 +1,2 @@
+2) Impresion de 17 2 veces: Por el operador compuesto --x y en la siguiente linea x-- no afecta el resultado.
+3) Resultado de operadores: el resultado se obtiene de dividir 39 int entre 5 int, el segundo resultado se obtiene de dividir 39 double entre 5 int.
